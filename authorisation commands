@@ -1,0 +1,2 @@
+to chnage directory access
+sudo chmod -R 775 directoryname
